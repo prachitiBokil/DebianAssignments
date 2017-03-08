@@ -1,0 +1,5 @@
+hello (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- unknown <prachiti@unknown>  Wed, 08 Mar 2017 16:34:04 +0530
