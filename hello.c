@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	printf("\ngood morning");
-	printf("\nHello world");
+	int a=5;
+        int b=5;
+        printf("\nAddition:%d",a+b);
 	return 0;
 }
