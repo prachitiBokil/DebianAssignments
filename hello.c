@@ -3,6 +3,6 @@ int main()
 {
 	int a=5;
         int b=5;
-        printf("\nAddition:%d",a+b);
+        printf("\nAddition:%d",a-b);
 	return 0;
 }
